@@ -11,3 +11,6 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 I am tasked to create a scatter plot, using D3 techniques, between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
 ## Analysis
+For this assignment, interactive scatter plots are added into the website. These interactive scatter plots allows the user to place the mouse over each Data Point and see useful information as the values. These interactive scatter plots are very useful because it makes easier to see the values of each point when there are thousand of points plotted on the same graph.
+
+![Screenshot](/Screenshots/scatter.png)
